@@ -44,6 +44,10 @@ HomeCore は、在庫管理・TODO 管理・買い物管理・掃除管理を 1 
 
 iCloud 同期や共有機能を利用するには、Apple Account と iCloud が利用可能な環境が必要です。同期や共有の反映タイミングは、Apple の iCloud / CloudKit の状態に影響を受ける場合があります。
 
+#### アプリ内から iCloud 同期をオフにできますか？
+
+いいえ。HomeCore には iCloud 同期を手動でオフにするアプリ内設定はありません。iCloud 同期の利用可否は、iOS、Apple Account、および iCloud の設定状況に依存します。
+
 #### 無料版とプレミアム版の違いは何ですか？
 
 無料版では、在庫管理・TODO 管理・買い物管理・掃除管理の 4 機能のうち、1 つを選択して利用できます。プレミアム版では、4 機能すべてとスライドショー機能を利用できます。プレミアム版は買い切り型で、購入の復元に対応しています。
@@ -104,6 +108,10 @@ HomeCore is an iOS app that combines Stock, TODO, Shopping, and Cleaning managem
 #### What is required for iCloud sync or sharing?
 
 You need an Apple Account and an environment where iCloud is available. Sync and sharing timing may depend on Apple's iCloud / CloudKit service status.
+
+#### Can I disable iCloud sync from inside the app?
+
+No. HomeCore does not provide an in-app switch to disable iCloud sync. Availability of iCloud sync depends on your iOS, Apple Account, and iCloud settings.
 
 #### What is the difference between the free version and premium?
 
